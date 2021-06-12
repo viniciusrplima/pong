@@ -53,7 +53,8 @@ void Engine::init(const std::string &indexFilename)
 
     while (true)
     {
-        // do nothing
+        SoundHolder::removeStoppedSounds();
+        sf::sleep(sf::milliseconds(1000));
     }
 }
 

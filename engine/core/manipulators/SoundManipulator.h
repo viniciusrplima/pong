@@ -10,6 +10,9 @@
 
 class SoundManipulator
 {
+private:
+
+
 public:
     SoundManipulator();
     ~SoundManipulator();
