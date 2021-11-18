@@ -10,6 +10,10 @@ Before anything you must install 'make' to build game.
 ```
 sudo apt install make
 ```
+Then install sfml libraries.
+```
+sudo apt install libsfml-dev
+```
 
 ## Running
 
